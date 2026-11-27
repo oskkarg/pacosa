@@ -1,0 +1,6 @@
+{
+  "name": "AMSTRAD CPC-84 · Fantasy BASIC Console",
+  "description": "Consola de fantasía inspirada en Amstrad CPC con lenguaje BASIC AMSTRAD 1.0, editor de sprites, editor de mapas, efectos sonoros AY-3-8912 y tracker musical.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
